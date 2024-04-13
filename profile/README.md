@@ -1,1 +1,2 @@
-Public View for the organisation
+Public View for the Organisation
+Made & Presented by @Campus Community.
